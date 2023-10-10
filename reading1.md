@@ -18,4 +18,4 @@ The source of the chips was tracked by tracking individuals devices leading to f
 I used (Bloomberg business week, The Big Hack: How China used a tiny chip to infiltrate U.S. companies) as a source to answer the above questions.
 
 Additional Resources: The additional resources were helpful in getting familiar with my accounts. The lecture on these resources was most helpful having been demonstrated by the instructor.
-The videos helped me understand the basic operations of how computers work and that computers are not only limited to laptops, and desktops, but other devices as well as phones, ipads, watches, ect.![image](https://github.com/rdmankin/ops-reading-notes/assets/146750380/8da22f50-b67e-4d69-81c4-a85533c09e13)
+The videos helped me understand the basic operations of how computers work and that computers are not only limited to laptops, and desktops, but other devices as well as phones, ipads, watches, ect.
