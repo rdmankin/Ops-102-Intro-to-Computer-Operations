@@ -4,6 +4,8 @@
 
 ### Reading 4
 
+This topic matters for the simple fact that it's everywhere and it's extreme popularity pretty much guarantees that you will be exposed to it one way or another.
+
 1.	What is Ubuntu? Unbuntu is a Linux operating system
 2.	Why would you choose to install the LTS version over regular Ubuntu releases? LTS is for people who don’t like to make regular upgrades because they want their system to stay the same.
 3.	What is the Ubuntu GNOME Shell? It’s the graphic display for the for the operating system which includes applications.
@@ -13,3 +15,4 @@ I found the answers to these questions using the following reference : https://w
 The video was great theory and history about the Linux operating system. It’s fascinating to learn what impact it has on a global scale.
 
 ## Things I want to know more about
+Why is it preferred over other operating systems.
