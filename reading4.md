@@ -1,6 +1,6 @@
 # Ray's Ops Reading Notes
 
-## Ops Reaadings
+## Ops Readings
 
 ### Reading 4
 
