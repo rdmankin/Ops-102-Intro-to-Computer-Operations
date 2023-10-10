@@ -22,3 +22,5 @@ SSDs are so popular due to their advantages, which are they contain no moving pa
 	I would pull up resources such as https://www.wikihow.com/Build-a-Computer, so I can have an illustration to explain the parts of the computer. I find that trying to explain technology without a reference is difficult to understand.
 
 The video is a helpful reference to re-visit because of the demontration of building a PC.
+
+## Things I want to know more about
