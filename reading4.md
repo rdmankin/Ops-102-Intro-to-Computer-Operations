@@ -12,3 +12,4 @@ I found the answers to these questions using the following reference : https://w
 
 The video was great theory and history about the Linux operating system. It’s fascinating to learn what impact it has on a global scale.
 
+## Things I want to know more about
