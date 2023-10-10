@@ -4,6 +4,7 @@
 
 ### Reading #1
 
+This topic is important because it is the perfect example of the importance of Cybersecurity. Cybersecurity has become another domain of warfare. The case study is a good example of that.
 1. How is a hardware hack different than a software hack? 
 A software hack is simpler because the human factor. When software developers make mistakes, these mistakes introduce vulnerabilities that can be exploited. Humans also tend to be tricked into giving personal information that can be exploited such as opening email links or not securing personal information. (i.e., using the same password for multiple accounts). Hardware attacks are more difficult because it requires a physical manipulation or modifications of the hardware. 2. What are the two ways for spies to alter a computer’s hardware?
 
@@ -19,3 +20,4 @@ I used (Bloomberg business week, The Big Hack: How China used a tiny chip to inf
 
 Additional Resources: The additional resources were helpful in getting familiar with my accounts. The lecture on these resources was most helpful having been demonstrated by the instructor.
 The videos helped me understand the basic operations of how computers work and that computers are not only limited to laptops, and desktops, but other devices as well as phones, ipads, watches, ect.
+## Things I want to know more about
