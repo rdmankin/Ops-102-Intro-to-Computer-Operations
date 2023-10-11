@@ -22,9 +22,9 @@ Resource used: https://unix.stackexchange.com/
 
 4.	Explain what Linux is, using anything except English.
                
-Retrieved image from: https://kinsta.com/blog/linux-commands/
-
 ![image](https://github.com/rdmankin/ops-reading-notes/assets/146750380/59584a58-07c9-4d4a-8435-ac2fd879cf99)
+
+Retrieved image from: https://kinsta.com/blog/linux-commands/
 
 ## Thing I like to know more about
 
