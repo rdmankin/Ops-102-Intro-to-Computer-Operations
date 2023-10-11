@@ -1,4 +1,8 @@
-# My reading notes for class 3
+# Ray's Ops Reading Notes
+
+## Ops Readings
+
+### Reading 4
 
 This class was important because it gives you really good understanding of the start up process and to be able to troubleshoot it when problems present themselves.
 
