@@ -2,7 +2,7 @@
 
 ## Ops Readings
 
-### Reading 4
+### Reading 3
 
 This class was important because it gives you really good understanding of the start up process and to be able to troubleshoot it when problems present themselves.
 
