@@ -4,11 +4,6 @@
 
 ### Reading 6
 
-Readings: SOHO Networking
-Below you will find reading materials and videos that support today’s topic and the upcoming lecture.
-Reading
-Fascinating history: What one home router can do - The WRT54GL
-
 1.	What makes the Linksys WRT54GL famous?
 Customers liked that it had open source firmware, it lasted a long time, and it was affordable.
 
@@ -36,7 +31,5 @@ Because the rule only affected 5Ghz band so it didn’t apply to the new rules.
 9.	Does the WRT54GL model still get updates from Linksys?
 The the most recent updates were in 2016.
 Resources: https://arstechnica.com/information-technology/2016/07/the-wrt54gl-a-54mbps-router-from-2005-still-makes-millions-for-linksys/
-
-![image](https://github.com/rdmankin/ops-reading-notes/assets/146750380/babebc0d-142b-441b-8ca1-87e23e960574)
 
 ## Things I want to know more about
