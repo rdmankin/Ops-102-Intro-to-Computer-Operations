@@ -16,6 +16,5 @@ The Command Prompt is a command-line interpreter application available in most W
 5.	What is Windows Terminal? It serves as a central hub for accessing various command-line tools, including the Command Prompt, PowerShell, Windows Subsystem for Linux (WSL), and more, all within a single, tabbed interface.
 
 Resource used: https://www.techtarget.com/searchitoperation
-https://www.techtarget.com/searchitoperation
 
 ## Things I want to know more about
