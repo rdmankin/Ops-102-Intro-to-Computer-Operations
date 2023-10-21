@@ -1,8 +1,6 @@
-# Ray's Ops Reading Notes
+# Reading Notes
 
-## Ops Readings
-
-### Reading 4
+## Ops 102: Intro to Computer Operations
 
 This topic matters for the simple fact that it's everywhere and it's extreme popularity pretty much guarantees that you will be exposed to it one way or another.
 
