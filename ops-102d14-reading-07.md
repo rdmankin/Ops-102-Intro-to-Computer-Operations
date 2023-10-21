@@ -1,8 +1,6 @@
 # Ray's Ops Reading Notes
 
-## Ops Readings
-
-### Reading 7
+## Ops 102: Intro to Computer Operations
 
 Readings : Network Security
 
