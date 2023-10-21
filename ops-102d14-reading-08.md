@@ -1,8 +1,6 @@
-# Ray's Ops Reading Notes
+# Reading Notes
 
-## Ops Readings
-
-### Reading #8
+## Ops 102: Intro to Computer Operations
 
 Readings: Virtualization of Windows OS
 
