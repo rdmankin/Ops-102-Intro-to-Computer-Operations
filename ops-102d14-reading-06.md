@@ -1,8 +1,6 @@
 # Ray's Ops Reading Notes
 
-## Ops Readings
-
-### Reading 6
+## Ops 102: Intro to Computer Operations
 
 1.	What makes the Linksys WRT54GL famous?
 Customers liked that it had open source firmware, it lasted a long time, and it was affordable.
