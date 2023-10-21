@@ -1,8 +1,6 @@
-# Ray's Ops Reading Notes
+# Reading Notes
 
-## Ops Readings
-
-### Reading 3
+## Ops: 102 Intro to Computer Operations
 
 This class was important because it gives you really good understanding of the start up process and to be able to troubleshoot it when problems present themselves.
 
