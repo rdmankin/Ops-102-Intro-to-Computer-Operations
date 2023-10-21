@@ -2,8 +2,6 @@
 
 ## Ops 102: Intro to Computer Operations
 
-### Reading #1
-
 This topic is important because it is the perfect example of the importance of Cybersecurity. Cybersecurity has become another domain of warfare. The case study is a good example of that.
 1. How is a hardware hack different than a software hack? 
 A software hack is simpler because the human factor. When software developers make mistakes, these mistakes introduce vulnerabilities that can be exploited. Humans also tend to be tricked into giving personal information that can be exploited such as opening email links or not securing personal information. (i.e., using the same password for multiple accounts). Hardware attacks are more difficult because it requires a physical manipulation or modifications of the hardware. 2. What are the two ways for spies to alter a computer’s hardware?
