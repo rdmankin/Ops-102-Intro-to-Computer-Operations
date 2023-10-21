@@ -1,8 +1,6 @@
 # Ray's Ops Reading Notes
 
-## Ops Readings
-
-### Reading 5
+## Ops 102: Intro to Computer Operations
 
 1.	Explain the terms “shell”, “terminal”, “cli”, and “command prompt”. Why are these still used today, when we have graphical interfaces?
 Shell: A shell is a cli program that provides a way for users to interact with an operating system by typing text-based commands.
