@@ -1,6 +1,6 @@
-# Ray's Ops Reading Notes
+# Reading Notes
 
-## Ops Readings
+## Ops 102: Intro to Computer Operations
 
 ### Reading #1
 
