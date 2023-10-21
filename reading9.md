@@ -1,8 +1,6 @@
-# Ray's Ops Reading Notes
+# Reading Notes
 
-## Ops Readings
-
-### Reading 9
+## Ops 102: Intro to Computer Operations
 
 1.	What is the Command Prompt?
 The Command Prompt is a command-line interpreter application available in most Windows operating systems. It provides a text-based interface for interacting with the operating system by entering commands.
