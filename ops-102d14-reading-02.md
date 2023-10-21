@@ -1,8 +1,6 @@
-# Ray's Ops Reading Notes
+# Reading Notes
 
-## Ops Readings
-
-### Reading #2
+## Ops 102: Intro to Computers
 
 This reading is imporatnt to understand because knowing the components and operation of the computer is fundamental to move into more advanced computer knowledge and industries such as Cybersecurity. 
 
